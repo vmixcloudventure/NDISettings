@@ -39,7 +39,7 @@
     <memo ip="172.31.30.239" device_name="Zoom-24" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.30.46" device_name="vmix-mv" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.16.58" device_name="obs-01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.27.196" device_name="obs-02" device_channel="Chan 1" device_type="0" />#
+    <memo ip="172.31.27.196" device_name="obs-02" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.28.248" device_name="meet01" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.22.233" device_name="meet02" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.31.107" device_name="meet03" device_channel="Chan 1" device_type="0" />
