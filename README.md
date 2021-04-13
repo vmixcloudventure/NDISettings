@@ -13,7 +13,7 @@ Store this unit under /etc/systemd/system/ndidisco.service
 Description=NDIDiscoServer
 
 [Service]
-ExecStart=/usr/sbin/foo-daemon
+ExecStart=/home/ubuntu/SDK/bin/x86_64-linux-gnu/ndi-directory-service
 
 [Install]
 WantedBy=multi-user.target
