@@ -21,10 +21,10 @@ WantedBy=multi-user.target
 $ sudo systemctl daemon-reload
 Start the service with:
 
-$ sudo systemctl start foo.service
+$ sudo systemctl start ndidisco.service
 And enable it during startup with:
 
-$ sudo systemctl enable foo.service
+$ sudo systemctl enable ndidisco.service
 You can check the status of the service with:
 
-$ systemctl status foo.service
+$ systemctl status ndidisco.service
