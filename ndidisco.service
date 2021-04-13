@@ -1,0 +1,8 @@
+[Unit]
+Description=NDIDiscoService
+
+[Service]
+ExecStart=/home/ubuntu/SDK/bin/x86_64-linux-gnu/ndi-directory-service
+
+[Install]
+WantedBy=multi-user.target
