@@ -50,7 +50,7 @@
 <ip>172.31.26.70</ip>
 </server>
 <server Id="5585a981-99b2-4144-8de1-b9633751e105" storage="1" name="Zoom02">
-<ip>172.31.18.100</ip>
+<ip>172.31.17.227</ip>
 </server>
 <server Id="6765f7bb-2aed-4bfd-b370-bdef1b52d970" storage="1" name="Zoom01">
 <ip>172.31.30.163</ip>
