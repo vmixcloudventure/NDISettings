@@ -14,20 +14,20 @@
     <memo ip="172.31.29.96" device_name="ctrl-01" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.17.103" device_name="ctrl-02" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.30.163" device_name="zoom-01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.18.100" device_name="zoom-02" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.26.70" device_name="Zoom-03" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.19.168" device_name="zoom-04" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.16.210" device_name="Zoom-05" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.28.188" device_name="Zoom-06" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.18.188" device_name="Zoom-07" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.21.30" device_name="Zoom-08" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.21.14" device_name="Zoom-09" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.19.253" device_name="Zoom-10" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.21.188" device_name="Zoom-11" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.28.188" device_name="Zoom-12" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.19.93" device_name="Zoom-13" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.17.121" device_name="Zoom-14" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.27.43" device_name="Zoom-15" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.23.27" device_name="zoom-02" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.30.220" device_name="Zoom-03" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.21.92" device_name="zoom-04" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.27.30" device_name="Zoom-05" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.23.200" device_name="Zoom-06" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.27.141" device_name="Zoom-07" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.18.15" device_name="Zoom-08" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.19.22" device_name="Zoom-09" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.21.96" device_name="Zoom-10" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.29.43" device_name="Zoom-11" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.31.50" device_name="Zoom-12" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.31.53" device_name="Zoom-13" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.20.57" device_name="Zoom-14" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.26.161" device_name="Zoom-15" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.26.179" device_name="Zoom-16" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.18.145" device_name="Zoom-17" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.19.124" device_name="Zoom-18" device_channel="Chan 1" device_type="0" />
