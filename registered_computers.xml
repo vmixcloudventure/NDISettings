@@ -92,16 +92,16 @@
 <ip>172.31.23.186</ip>
 </server>
 <server Id="70f9e65b-ac54-4f37-942b-4186f5e3b324" storage="1" name="meet01">
-<ip>172.31.28.248</ip>
+<ip>172.31.19.55</ip>
 </server>
 <server Id="1afe3423-c0db-48b5-8906-9bfa9ab564f3" storage="1" name="meet02">
-<ip>172.31.22.233</ip>
+<ip>172.31.29.71</ip>
 </server>
 <server Id="c699ad20-5b64-4e77-9e14-6b634d1a013d" storage="1" name="meet03">
-<ip>172.31.31.107</ip>
+<ip>172.31.30.37</ip>
 </server>
 <server Id="e2e54329-6d94-4015-878a-a403a94a1cff" storage="1" name="meet04">
-<ip>172.31.21.172</ip>
+<ip>172.31.31.57</ip>
 <vnc>
 <base4>
 <ssh_fwd>
