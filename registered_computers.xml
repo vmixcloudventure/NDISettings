@@ -110,6 +110,7 @@
 </base4>
 </vnc>
 </server>
+<server Id="65f7cb0c-4617-48f9-91e8-9fdb9322e444" storage="1" name="Zoom25"><ip>172.31.25.122</ip></server><server Id="e333b9a7-5e90-4c36-a013-f32aa54aef59" storage="1" name="Zoom26"><ip>172.31.20.61</ip></server>
 </group>
 </group>
 </entries>
