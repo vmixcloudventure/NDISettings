@@ -20,49 +20,49 @@
 </vnc>
 </group_computer>
 <server Id="7639a39e-84b8-4028-adef-3d6d9e024dc1" storage="1" name="Zoom12">
-<ip>172.31.28.188</ip>
+<ip>172.31.31.50</ip>
 </server>
 <server Id="dce50f62-bf46-4bc4-9226-bad3a0df2a78" storage="1" name="Zoom11">
-<ip>172.31.21.188</ip>
+<ip>172.31.29.43</ip>
 </server>
 <server Id="2758eefd-2ae0-4fe3-8f42-55dd6740dbc2" storage="1" name="Zoom10">
-<ip>172.31.19.253</ip>
+<ip>172.31.21.96</ip>
 </server>
 <server Id="2ceb7d1c-67e5-48ed-999b-7ae89a562164" storage="1" name="Zoom09">
-<ip>172.31.21.14</ip>
+<ip>172.31.19.22</ip>
 </server>
 <server Id="3c711a23-7182-4fe5-b60d-081155f2d19d" storage="1" name="Zoom08">
-<ip>172.31.21.30</ip>
+<ip>172.31.18.15</ip>
 </server>
 <server Id="63257c8f-3ca4-45ea-981e-f0ec3e045938" storage="1" name="Zoom07">
-<ip>172.31.18.188</ip>
+<ip>172.31.27.141</ip>
 </server>
 <server Id="4cdc50fd-9ddb-4499-8af0-4a64665596c0" storage="1" name="Zoom06">
-<ip>172.31.28.188</ip>
+<ip>172.31.23.200</ip>
 </server>
 <server Id="a51e7af4-347c-466e-a46e-8425a1f63dcc" storage="1" name="Zoom05">
-<ip>172.31.16.210</ip>
+<ip>172.31.27.30</ip>
 </server>
 <server Id="a71400e0-7827-49db-ac2f-ec67b3161e4f" storage="1" name="Zoom04">
-<ip>172.31.19.168</ip>
+<ip>172.31.21.92</ip>
 </server>
 <server Id="c17a5220-6aff-47bd-aa12-9658e990ab5f" storage="1" name="Zoom03">
-<ip>172.31.26.70</ip>
+<ip>172.31.30.220</ip>
 </server>
 <server Id="5585a981-99b2-4144-8de1-b9633751e105" storage="1" name="Zoom02">
-<ip>172.31.17.227</ip>
+<ip>172.31.23.27</ip>
 </server>
 <server Id="6765f7bb-2aed-4bfd-b370-bdef1b52d970" storage="1" name="Zoom01">
 <ip>172.31.30.163</ip>
 </server>
 <server Id="8090e5f0-f4b8-423a-b138-73b9ef39fc7b" storage="1" name="Zoom13">
-<ip>172.31.19.93</ip>
+<ip>172.31.31.53</ip>
 </server>
 <server Id="76431f4d-7db2-4193-90fc-2e97f84c9e50" storage="1" name="Zoom14">
-<ip>172.31.17.121</ip>
+<ip>172.31.20.57</ip>
 </server>
 <server Id="fd09fd80-90aa-46f2-ac86-9a6ab2993f7d" storage="1" name="Zoom15">
-<ip>172.31.27.43</ip>
+<ip>172.31.26.161</ip>
 </server>
 <server Id="bec3df11-c860-4d1c-a51e-0abfb6337862" storage="1" name="Zoom16">
 <ip>172.31.26.179</ip>
