@@ -8,9 +8,9 @@
   </receive>
   <network>
     <memo ip="172.31.21.222" device_name="vmix-01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.17.89" device_name="vmix-02" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.17.131" device_name="vmix-03" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.29.156" device_name="vmix-04" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.25.82" device_name="vmix-02" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.25.105" device_name="vmix-03" device_channel="Chan 1" device_type="0" />
+    <memo ip="172.31.17.252" device_name="vmix-04" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.29.96" device_name="ctrl-01" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.17.103" device_name="ctrl-02" device_channel="Chan 1" device_type="0" />
     <memo ip="172.31.30.163" device_name="zoom-01" device_channel="Chan 1" device_type="0" />
