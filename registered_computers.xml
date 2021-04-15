@@ -91,12 +91,6 @@
 <server Id="bcdfe6b9-3072-460d-b9a2-b6429d4f2cc7" storage="1" name="Zoom24">
 <ip>172.31.23.186</ip>
 </server>
-<server Id="bcdfe6b9-3072-460d-b9a2-b6429d4f2cc7" storage="1" name="Zoom25">
-<ip>172.31.25.122</ip>
-</server>
-<server Id="bcdfe6b9-3072-460d-b9a2-b6429d4f2cc7" storage="1" name="Zoom26">
-<ip>172.31.20.61</ip>
-</server>
 <server Id="70f9e65b-ac54-4f37-942b-4186f5e3b324" storage="1" name="meet01">
 <ip>172.31.28.248</ip>
 </server>
