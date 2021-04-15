@@ -102,9 +102,6 @@
 </server>
 <server Id="e2e54329-6d94-4015-878a-a403a94a1cff" storage="1" name="meet04">
 <ip>172.31.21.172</ip>
-</server>
-<server Id="a9ff5c5a-fb52-4a34-845b-1060fc25d70e" storage="1" name="ndidisco">
-<ip>172.31.24.203</ip>
 <vnc>
 <base4>
 <ssh_fwd>
