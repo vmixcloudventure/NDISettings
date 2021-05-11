@@ -41,19 +41,19 @@
 <ip>172.31.23.200</ip>
 </server>
 <server Id="a51e7af4-347c-466e-a46e-8425a1f63dcc" storage="1" name="Zoom05">
-<ip>172.31.27.30</ip>
+<ip>172.31.4.216</ip>
 </server>
 <server Id="a71400e0-7827-49db-ac2f-ec67b3161e4f" storage="1" name="Zoom04">
-<ip>172.31.21.92</ip>
+<ip>172.31.3.168</ip>
 </server>
 <server Id="c17a5220-6aff-47bd-aa12-9658e990ab5f" storage="1" name="Zoom03">
-<ip>172.31.30.220</ip>
+<ip>172.31.14.95</ip>
 </server>
 <server Id="5585a981-99b2-4144-8de1-b9633751e105" storage="1" name="Zoom02">
-<ip>172.31.23.27</ip>
+<ip>172.31.2.42</ip>
 </server>
 <server Id="6765f7bb-2aed-4bfd-b370-bdef1b52d970" storage="1" name="Zoom01">
-<ip>172.31.30.163</ip>
+<ip>172.31.0.196</ip>
 </server>
 <server Id="8090e5f0-f4b8-423a-b138-73b9ef39fc7b" storage="1" name="Zoom13">
 <ip>172.31.31.53</ip>
