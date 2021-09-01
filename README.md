@@ -4,7 +4,7 @@ NDISettings for zoom instances
 
 
 
-NDI SDK works well on Ubuntu server 1804
+NDI SDK works well on Ubuntu server 2004
 Just download the link (wget) extract, (tar -xf) and run
 created a systemctl service for it
 Store this unit under /etc/systemd/system/ndidisco.service
