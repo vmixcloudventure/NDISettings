@@ -6,30 +6,5 @@
   <receive>
     <memo group="Public" text="All ungrouped NDI sources" />
   </receive>
-  <network>
-    <memo ip="172.31.10.253" device_name="VMIX01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.5.29" device_name="VMIX02" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.3.21" device_name="OBS01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.0.196" device_name="CTRL01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.6.22" device_name="ZOOMREC1" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.4.118" device_name="ZOOMREC2" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.4.48" device_name="ZOOM01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.3.79" device_name="ZOOM02" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.1.224" device_name="ZOOM03" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.11.59" device_name="ZOOM04" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.13.201" device_name="ZOOM05" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.14.92" device_name="ZOOM06" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.10.62" device_name="ZOOM07" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.2.234" device_name="ZOOM08" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.9.143" device_name="ZOOM09" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.2.63" device_name="ZOOM10" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.9.36" device_name="ZOOM11" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.6.212" device_name="ZOOM12" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.0.9" device_name="ZOOM13" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.4.53" device_name="ZOOM14" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.3.178" device_name="ZOOM15" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.6.160" device_name="ZOOM16" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.6.229" device_name="MEET01" device_channel="Chan 1" device_type="0" />
-    <memo ip="172.31.12.1" device_name="MEET02" device_channel="Chan 1" device_type="0" />
-  </network>
+  <network />
 </ndi_group_memos>
